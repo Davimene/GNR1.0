@@ -168,7 +168,7 @@ rotulo03.pack(pady=10)
 texto01 = tk.Label(pagina03, text="Versao:1.0")
 texto01.pack(pady=10)
 
-texto02 = tk.Label(pagina03, text="Criador: Davi Menezes / Urlam / Aladdin Do 7 / iMago_lam ")
+texto02 = tk.Label(pagina03, text="Criador: Davi Menezes")
 texto02.pack(pady=10)
 
 texto03 = tk.Label(pagina03, text="Uso livre, foda-se os direitos autorais! \n\nSe tiver afim de ajudar dando money, fique a vontade. \nMas se foda pra achar nossa carteira. \n\nFavor se for usar o codigo fonte, deixa os creditos!")
